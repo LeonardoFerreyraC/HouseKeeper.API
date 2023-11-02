@@ -29,10 +29,6 @@
         "rating": 8.5
       },
       {
-        "id": "4579342",
-        "rating": 8.5
-      },
-      {
         "id": "484988977",
         "title": "Portugal",
         "description":"Encántate con ciudades históricas, playas soleadas, y deliciosa gastronomía en un país que combina tradición y modernidad en cada rincón.",
@@ -287,4 +283,5 @@
         "rating": 5.2
       }
     ]
-  }
+}
+  
